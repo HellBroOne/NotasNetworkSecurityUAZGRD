@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ae0714fc26a82ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f88cc7939847bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6671ef18866c59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a777a6fe17dc86c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RetosBandit/Retos Bandit 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e1ee2001ae00a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdb26d5c8733dc32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688e6d00f1f8b176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccf3b209237c683a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43d97587828724f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85e779de296e91e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e653f56e6f955a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db182740544b649a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RetosBandit/Retos Bandit 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f21dcb785138caab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RetosBandit/Retos Bandit 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "100da362c7556a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "915e473c6d9449d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RetosBandit/Retos Bandit 0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a777a6fe17dc86c8",
+  "lastOpenFiles": [
+    "README.md",
+    "RetosBandit/Retos Bandit 0.md",
+    "RetosBandit/Plantilla de Notas del Nivel.md",
+    "RetosBandit",
+    "Retos Bandit Level 0.md"
+  ]
+}
