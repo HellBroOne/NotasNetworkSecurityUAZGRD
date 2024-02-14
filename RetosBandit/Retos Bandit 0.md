@@ -10,7 +10,8 @@ Contraseña: Bandit0
 Servidor: bandit.labs.overthewire.org
 Puerto: 2220
 ### Solución
-```ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+C:users/User> ssh bandit0@bandit.labs.overthewire.org -p 2220
 hostkeys_find_by_key_hostfile: hostkeys_foreach failed for C:\\Users\\gerar/.ssh/known_hosts: Permission denied
 The authenticity of host '[bandit.labs.overthewire.org]:2220 ([51.20.13.48]:2220)' can't be established.
 ED25519 key fingerprint is SHA256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
@@ -28,6 +29,7 @@ Failed to add the host to the list of known hosts (C:\\Users\\gerar/.ssh/known_h
             More information on http://www.overthewire.org/wargames
 ```
 ### Notas Adicionales
+Este Nivel nos ayuda a poder comprender como acceder a los niveles de la plataforma de bandit, nos sirve al momento de querer acceder a nuevos niveles así como usar los ssh para acceder al servidor de bandit
 
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit0.html
