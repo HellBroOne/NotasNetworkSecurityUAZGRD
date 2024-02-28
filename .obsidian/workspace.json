@@ -11,8 +11,12 @@
             "id": "b0cf9ca733e5a1f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RetosBandit/Retos Bandit Lvl. 33 → 34.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "85e779de296e91e8",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RetosBandit/Retos Bandit Lvl. 33 → 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RetosBandit/Retos Bandit Lvl. 33 → 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RetosBandit/Retos Bandit Lvl. 33 → 34.md"
+              }
             }
           }
         ]
@@ -130,9 +138,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -140,33 +148,35 @@
   },
   "active": "b0cf9ca733e5a1f6",
   "lastOpenFiles": [
-    "RetosBandit/Retos Bandit 0.md",
-    "RetosBandit/Retos Bandit Lvl. 4 a 5.md",
-    "RetosBandit/Retos Bandit Lvl. 21 a 22.md",
-    "RetosBandit/Retos Bandit Lvl. 20 a 21.md",
-    "RetosBandit/Retos Bandit Lvl. 19 a 20.md",
-    "RetosBandit/Retos Bandit Lvl. 18 a 19.md",
-    "RetosBandit/Retos Bandit Lvl. 17 a 18.md",
-    "RetosBandit/Retos Bandit Lvl. 16 a 17.md",
-    "RetosBandit/Retos Bandit Lvl. 14 a 15.md",
-    "RetosBandit/Retos Bandit Lvl. 15 a 16.md",
+    "RetosBandit/Retos Bandit Lvl. 23 → 24.md",
+    "RetosBandit/Retos Bandit Lvl. 24 → 25.md",
+    "RetosBandit/Retos Bandit Lvl. 25 → 26.md",
+    "RetosBandit/Retos Bandit Lvl. 26 → 27.md",
+    "RetosBandit/Retos Bandit Lvl. 27 → 28.md",
+    "RetosBandit/Retos Bandit Lvl. 28 → 29.md",
+    "RetosBandit/Retos Bandit Lvl. 29 → 30.md",
+    "RetosBandit/Retos Bandit Lvl. 30 → 31.md",
+    "RetosBandit/Retos Bandit Lvl. 31 → 32.md",
+    "RetosBandit/Retos Bandit Lvl. 32 → 33.md",
+    "RetosBandit/Retos Bandit Lvl. 33 → 34.md",
+    "RetosBandit/Retos Bandit Lvl. 16 → 17.md",
+    "RetosBandit/Retos Bandit Lvl. 17 → 18.md",
+    "RetosBandit/Retos Bandit Lvl. 18 → 19.md",
+    "RetosBandit/Retos Bandit Lvl. 19 → 20.md",
+    "RetosBandit/Retos Bandit Lvl. 20 → 21.md",
+    "RetosBandit/Retos Bandit Lvl. 21 → 22.md",
+    "RetosBandit/Retos Bandit Lvl. 15 → 16.md",
+    "RetosBandit/Retos Bandit Lvl. 14 → 15.md",
+    "RetosBandit/Retos Bandit Lvl. 13 → 14.md",
+    "RetosBandit/Retos Bandit Lvl. 12 → 13.md",
+    "RetosBandit/Retos Bandit Lvl. 11 → 12.md",
+    "RetosBandit/Retos Bandit Lvl. 10 → 11.md",
+    "RetosBandit/Retos Bandit Lvl. 9 → 10.md",
+    "RetosBandit/Retos Bandit Lvl. 8 → 9.md",
+    "RetosBandit/Retos Bandit Lvl. 22 → 23.md",
+    "RetosPicoCTF/Primer Parcial",
+    "RetosPicoCTF",
     "Pasted image 20240221190011.png",
-    "RetosBandit/Retos Bandit Lvl. 13 a 14.md",
-    "RetosBandit/Retos Bandit Lvl. 12 a 13.md",
-    "RetosBandit/Retos Bandit Lvl. 11 a 12.md",
-    "RetosBandit/Retos Bandit Lvl. 10 a 11.md",
-    "RetosBandit/Retos Bandit Lvl. 9 a 10.md",
-    "RetosBandit/Retos Bandit Lvl. 8 a 9.md",
-    "README.md",
-    "RetosBandit/Retos Bandit Lvl. 7 a 8.md",
-    "RetosBandit/Retos Bandit Lvl. 0 a 1.md",
-    "RetosBandit/Retos Bandit Lvl. 1 a 2.md",
-    "RetosBandit/Retos Bandit Lvl. 2 a 3.md",
-    "RetosBandit/Retos Bandit Lvl. 3 a 4.md",
-    "RetosBandit/Retos Bandit Lvl. 5 a 6.md",
-    "RetosBandit/Retos Bandit Lvl. 6 a 7.md",
-    "Por descubrir....md",
-    "RetosBandit/Plantilla de Notas del Nivel.md",
     "RetosBandit"
   ]
 }
