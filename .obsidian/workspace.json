@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
+                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
+                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
+                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Hacking Web/05 - Client-side-again.md"
+                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "b0cf9ca733e5a1f6",
   "lastOpenFiles": [
-    "RetosPicoCTF/Hacking Web/06 - picobrowser.md",
-    "RetosPicoCTF/Hacking Web/02 - dont-use-client-side.md",
-    "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
-    "RetosPicoCTF/Hacking Web/03 - logon.md",
-    "RetosPicoCTF/Hacking Web/04 - where are the robots.md",
-    "RetosPicoCTF/Hacking Web/01 - Inspector.md",
-    "RetosPicoCTF/Plantilla PicoCTF.md",
-    "RetosBandit/Retos Bandit Lvl. 33 → 34.md",
-    "RetosPicoCTF/Hacking Web",
-    "RetosBandit/Retos Bandit Lvl. 23 → 24.md",
-    "RetosBandit/Retos Bandit Lvl. 24 → 25.md",
-    "RetosBandit/Retos Bandit Lvl. 25 → 26.md",
-    "RetosBandit/Retos Bandit Lvl. 26 → 27.md",
-    "RetosBandit/Retos Bandit Lvl. 27 → 28.md",
-    "RetosBandit/Retos Bandit Lvl. 28 → 29.md",
-    "RetosBandit/Retos Bandit Lvl. 29 → 30.md",
-    "RetosBandit/Retos Bandit Lvl. 30 → 31.md",
-    "RetosBandit/Retos Bandit Lvl. 31 → 32.md",
-    "RetosBandit/Retos Bandit Lvl. 32 → 33.md",
-    "RetosBandit/Retos Bandit Lvl. 16 → 17.md",
-    "RetosBandit/Retos Bandit Lvl. 17 → 18.md",
-    "RetosBandit/Retos Bandit Lvl. 18 → 19.md",
-    "RetosBandit/Retos Bandit Lvl. 19 → 20.md",
+    "RetosPicoCTF/Primer Parcial/09 - 2Warm.md",
+    "RetosPicoCTF/Primer Parcial/08 - Warmed Up.md",
+    "RetosPicoCTF/Primer Parcial/07 - Let's Warm Up.md",
+    "RetosPicoCTF/Primer Parcial/06 - Magikarp Ground Mission.md",
+    "RetosPicoCTF/Primer Parcial/05 - Tab, Tab, Attack.md",
+    "RetosPicoCTF/Primer Parcial/04 - Static ain't always noise.md",
+    "RetosPicoCTF/Primer Parcial/03 - Nice netcat....md",
+    "RetosPicoCTF/Primer Parcial/02 - Wave a Flag.md",
+    "RetosPicoCTF/Primer Parcial/01 - Obedient Cat.md",
+    "RetosPicoCTF/Primer Parcial/10 - Bases.md",
+    "RetosBandit/Retos Bandit Lvl. 12 → 13.md",
+    "RetosBandit/Retos Bandit Lvl. 11 → 12.md",
+    "RetosBandit/Retos Bandit Lvl. 10 → 11.md",
+    "RetosBandit/Retos Bandit Lvl. 9 → 10.md",
+    "RetosBandit/Retos Bandit Lvl. 8 → 9.md",
+    "RetosBandit/Retos Bandit Lvl. 7 → 8.md",
+    "RetosBandit/Retos Bandit Lvl. 6 → 7.md",
+    "RetosBandit/Retos Bandit Lvl. 5 → 6.md",
+    "RetosBandit/Retos Bandit Lvl. 4 → 5.md",
+    "RetosBandit/Retos Bandit Lvl. 3 → 4.md",
+    "RetosBandit/Retos Bandit Lvl. 2 → 3.md",
+    "RetosBandit/Retos Bandit Lvl. 1 → 2.md",
+    "RetosBandit/Retos Bandit Lvl. 0 → 1.md",
     "RetosBandit/Retos Bandit Lvl. 20 → 21.md",
-    "RetosBandit/Retos Bandit Lvl. 21 → 22.md",
-    "RetosBandit/Retos Bandit Lvl. 15 → 16.md",
-    "RetosBandit/Retos Bandit Lvl. 14 → 15.md",
+    "RetosBandit/Retos Bandit Lvl. 19 → 20.md",
+    "RetosBandit/Retos Bandit Lvl. 18 → 19.md",
+    "RetosPicoCTF/Hacking Web",
     "RetosPicoCTF/Primer Parcial",
     "RetosPicoCTF",
     "Pasted image 20240221190011.png",

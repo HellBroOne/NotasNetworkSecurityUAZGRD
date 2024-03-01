@@ -1,29 +1,19 @@
 ## Descripcion
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
+Si te dijera que una palabra comienza con 0x70 en hexadecimal, ¿con qué comenzaría en ASCII?
 ### Pistas
 1. Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 ### Solución
 ```
-hellbroone-picoctf@webshell:~$ ls
-README.txt
-hellbroone-picoctf@webshell:~$ wget https://mercury.picoctf.net/static/a5683698ac318b47bd060cb786859f23/flag
---2024-02-27 18:35:43--  https://mercury.picoctf.net/static/a5683698ac318b47bd060cb786859f23/flag
-Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
-Connecting to mercury.picoctf.net (mercury.picoctf.net)|18.189.209.142|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 34 [application/octet-stream]
-Saving to: 'flag'
-
-flag                                           100%[===================================================================================================>]      34  --.-KB/s    in 0s      
-
-2024-02-27 18:35:43 (14.3 MB/s) - 'flag' saved [34/34]
-
-hellbroone-picoctf@webshell:~$ ls
-README.txt  flag
-hellbroone-picoctf@webshell:~$ cat flag
-picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
-hellbroone-picoctf@webshell:~$ 
+1. Para esto primero hay que obtener el 0x70.
+2. Para decodificar, use "Cyberchef"
+3. Primero agregamos "From Hex" a la receta.
+4. Pegamos el 0x70 y resulta una p
+5. La respuesta es picoCTF{p}
 ```
 ### Notas Adicionales
+Aquí aprendimos a decodificar desde métodos externos un archivo de Hexadecimal a ASCII, utilizando CyberChef y su decodificador de From Hex.
 ### Referencias
+https://play.picoctf.org/practice/challenge/22
+*Decodificador de CyberChef:* [Cyberchef](https://gchq.github.io/CyberChef/)
