@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc93682f7e2d307",
+        "id": "10abf6953e02c409",
         "type": "tabs",
         "children": [
           {
-            "id": "b0cf9ca733e5a1f6",
+            "id": "42c19d48e9636338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
+                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
+                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md",
+                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/10 - Bases.md"
+                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b0cf9ca733e5a1f6",
+  "active": "42c19d48e9636338",
   "lastOpenFiles": [
+    "RetosPicoCTF/Primer Parcial/23 - Based.md",
+    "RetosPicoCTF/Primer Parcial/22 - runme.py.md",
+    "RetosPicoCTF/Primer Parcial/21 - PW Crack 3.md",
+    "RetosPicoCTF/Primer Parcial/20 - PW Crack 2.md",
+    "RetosPicoCTF/Primer Parcial/19 - PW Crack 1.md",
+    "RetosPicoCTF/Primer Parcial/18 - Glitch Cat.md",
+    "RetosPicoCTF/Primer Parcial/17 - fixme2.py.md",
+    "RetosPicoCTF/Primer Parcial/16 - what's a net cat.md",
+    "RetosPicoCTF/Primer Parcial/15 - strings it.md",
+    "RetosPicoCTF/Primer Parcial/14 - fixme1.py.md",
+    "RetosPicoCTF/Primer Parcial/13 - First Grep.md",
+    "RetosPicoCTF/Primer Parcial/12 - convertme.py.md",
+    "RetosPicoCTF/Primer Parcial/11 - Codebook.md",
+    "RetosPicoCTF/Primer Parcial/10 - Bases.md",
     "RetosPicoCTF/Primer Parcial/09 - 2Warm.md",
     "RetosPicoCTF/Primer Parcial/08 - Warmed Up.md",
     "RetosPicoCTF/Primer Parcial/07 - Let's Warm Up.md",
@@ -157,23 +171,11 @@
     "RetosPicoCTF/Primer Parcial/03 - Nice netcat....md",
     "RetosPicoCTF/Primer Parcial/02 - Wave a Flag.md",
     "RetosPicoCTF/Primer Parcial/01 - Obedient Cat.md",
-    "RetosPicoCTF/Primer Parcial/10 - Bases.md",
-    "RetosBandit/Retos Bandit Lvl. 12 → 13.md",
-    "RetosBandit/Retos Bandit Lvl. 11 → 12.md",
-    "RetosBandit/Retos Bandit Lvl. 10 → 11.md",
-    "RetosBandit/Retos Bandit Lvl. 9 → 10.md",
-    "RetosBandit/Retos Bandit Lvl. 8 → 9.md",
-    "RetosBandit/Retos Bandit Lvl. 7 → 8.md",
-    "RetosBandit/Retos Bandit Lvl. 6 → 7.md",
-    "RetosBandit/Retos Bandit Lvl. 5 → 6.md",
-    "RetosBandit/Retos Bandit Lvl. 4 → 5.md",
-    "RetosBandit/Retos Bandit Lvl. 3 → 4.md",
-    "RetosBandit/Retos Bandit Lvl. 2 → 3.md",
-    "RetosBandit/Retos Bandit Lvl. 1 → 2.md",
-    "RetosBandit/Retos Bandit Lvl. 0 → 1.md",
-    "RetosBandit/Retos Bandit Lvl. 20 → 21.md",
-    "RetosBandit/Retos Bandit Lvl. 19 → 20.md",
-    "RetosBandit/Retos Bandit Lvl. 18 → 19.md",
+    "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "RetosBandit/Retos Bandit Lvl. 14 → 15.md",
+    "RetosBandit/Retos Bandit Lvl. 22 → 23.md",
     "RetosPicoCTF/Hacking Web",
     "RetosPicoCTF/Primer Parcial",
     "RetosPicoCTF",
