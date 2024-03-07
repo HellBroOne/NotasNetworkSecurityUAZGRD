@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
+                "file": "RetosPicoCTF/Hacking Web/11 - JaWT Scratchpad 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
+                "file": "RetosPicoCTF/Hacking Web/11 - JaWT Scratchpad 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
+                "file": "RetosPicoCTF/Hacking Web/11 - JaWT Scratchpad 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Primer Parcial/24 - Plumbing.md"
+                "file": "RetosPicoCTF/Hacking Web/11 - JaWT Scratchpad 1.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "42c19d48e9636338",
   "lastOpenFiles": [
+    "RetosPicoCTF/Hacking Web/12 - Cookies.md",
+    "RetosPicoCTF/Hacking Web/13 - Scavenger Hunt.md",
+    "RetosPicoCTF/Hacking Web/11 - JaWT Scratchpad 1.md",
+    "RetosPicoCTF/Hacking Web/10 - JaWT Scratchpad.md",
+    "RetosPicoCTF/Hacking Web/09 - Irish-Name-Repo 3.md",
+    "RetosPicoCTF/Hacking Web/08 - Irish-Name-Repo 2.md",
+    "RetosPicoCTF/Hacking Web/07 - Irish-Name-Repo 1.md",
+    "RetosPicoCTF/Hacking Web/01 - Inspector.md",
+    "RetosPicoCTF/Hacking Web/06 - picobrowser.md",
+    "RetosPicoCTF/Hacking Web/03 - logon.md",
+    "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
+    "RetosBandit/Retos Bandit Lvl. 10 → 11.md",
     "RetosPicoCTF/Primer Parcial/23 - Based.md",
     "RetosPicoCTF/Primer Parcial/22 - runme.py.md",
     "RetosPicoCTF/Primer Parcial/21 - PW Crack 3.md",
@@ -162,20 +174,8 @@
     "RetosPicoCTF/Primer Parcial/12 - convertme.py.md",
     "RetosPicoCTF/Primer Parcial/11 - Codebook.md",
     "RetosPicoCTF/Primer Parcial/10 - Bases.md",
-    "RetosPicoCTF/Primer Parcial/09 - 2Warm.md",
-    "RetosPicoCTF/Primer Parcial/08 - Warmed Up.md",
-    "RetosPicoCTF/Primer Parcial/07 - Let's Warm Up.md",
-    "RetosPicoCTF/Primer Parcial/06 - Magikarp Ground Mission.md",
-    "RetosPicoCTF/Primer Parcial/05 - Tab, Tab, Attack.md",
-    "RetosPicoCTF/Primer Parcial/04 - Static ain't always noise.md",
-    "RetosPicoCTF/Primer Parcial/03 - Nice netcat....md",
-    "RetosPicoCTF/Primer Parcial/02 - Wave a Flag.md",
-    "RetosPicoCTF/Primer Parcial/01 - Obedient Cat.md",
-    "RetosPicoCTF/Primer Parcial/24 - Plumbing.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
-    "RetosBandit/Retos Bandit Lvl. 14 → 15.md",
-    "RetosBandit/Retos Bandit Lvl. 22 → 23.md",
     "RetosPicoCTF/Hacking Web",
     "RetosPicoCTF/Primer Parcial",
     "RetosPicoCTF",
