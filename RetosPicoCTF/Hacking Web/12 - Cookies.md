@@ -26,6 +26,7 @@ hellbroone-picoctf@webshell:~$ for i in {8..20}; do curl -s http://mercury.picoc
             <p style="text-align:center; font-size:30px;"><b>I love fortune cookies!</b></p>
 hellbroone-picoctf@webshell:~$ exit
 logout
+
 ```
 ### Notas Adicionales
 Para este reto aprendimos obtener cookies desde el bash para poder obtener las cookies necesarias y poder saber cuál es la cookie que necesitamos, por ello hicimos un pequeño código que nos permite ejecutar y obtener las cookies de un sitio mediante una consulta de su nombre.

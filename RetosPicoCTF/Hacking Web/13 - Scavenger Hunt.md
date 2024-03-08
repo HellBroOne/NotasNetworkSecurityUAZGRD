@@ -15,6 +15,7 @@ Hay información interesante oculta en este sitio [http://mercury.picoctf.net:5
 5. Finalmente, la ultima esta en el .DS_Store (http://mercury.picoctf.net:55079/.DS_Store): _74cceb07}
 
 picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_74cceb07}
+
 ```
 ### Notas Adicionales
 Para este reto aprendimos obtener la bandera mediante el uso de varios indexes que se tienen el la url como tal, para ello fuimos partes por partes para obtener las banderas.
