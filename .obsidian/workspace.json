@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
+                "file": "RetosPicoCTF/RetosForensic/12 - Matryoshka doll.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
+                "file": "RetosPicoCTF/RetosForensic/12 - Matryoshka doll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
+                "file": "RetosPicoCTF/RetosForensic/12 - Matryoshka doll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md"
+                "file": "RetosPicoCTF/RetosForensic/12 - Matryoshka doll.md"
               }
             }
           }
@@ -161,16 +161,19 @@
   },
   "active": "e797db68d9f3bdab",
   "lastOpenFiles": [
+    "RetosPicoCTF/RetosForensic/15 - WebNet0.md",
+    "RetosPicoCTF/RetosForensic/14 - MacroHard Weakage.md",
+    "RetosPicoCTF/RetosForensic/13 - tunn3l v1s10n.md",
+    "RetosPicoCTF/RetosForensic/12 - Matryoshka doll.md",
+    "RetosPicoCTF/RetosForensic/16 - WebNet1.md",
+    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
     "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
     "RetosPicoCTF/RetosForensic/08 - m00nwalk.md",
     "RetosPicoCTF/RetosForensic/07 - like1000.md",
     "RetosPicoCTF/RetosForensic/06 - c0rruption.md",
     "RetosPicoCTF/RetosForensic/05 - What Lies Within.md",
     "RetosPicoCTF/RetosForensic/04 - So Meta.md",
-    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
     "RetosPicoCTF/Primer Parcial/23 - Based.md",
-    "RetosPicoCTF/RetosForensic/14 - MacroHard Weakage.md",
-    "RetosPicoCTF/RetosForensic/15 - WebNet0.md",
     "RetosPicoCTF/RetosForensic/03 - shark on wire 1.md",
     "RetosPicoCTF/RetosForensic/Sin título.md",
     "RetosPicoCTF/RetosForensic/01 - Glory of the Garden.md",
@@ -184,9 +187,6 @@
     "RetosBandit/Retos Bandit Lvl. 7 → 8.md",
     "RetosBandit/Retos Bandit Lvl. 2 → 3.md",
     "RetosBandit/Retos Bandit Lvl. 4 → 5.md",
-    "RetosBandit/Retos Bandit Lvl. 20 → 21.md",
-    "RetosBandit/Retos Bandit Lvl. 19 → 20.md",
-    "RetosBandit/Retos Bandit Lvl. 18 → 19.md",
     "Sin título.canvas",
     "Sin título",
     "RetosPicoCTF/RetosForensic",
