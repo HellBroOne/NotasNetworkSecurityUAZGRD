@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/01 - Includes.md",
+                "file": "RetosPicoCTF/Cryptography/04 - Easy1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72c399c0925ad964",
+            "id": "29fdb2b32a6561e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
+                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
+                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
+                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md"
+                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md"
               }
             }
           }
@@ -171,36 +171,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "688e6d00f1f8b176",
+  "active": "29fdb2b32a6561e5",
   "lastOpenFiles": [
-    "RetosPicoCTF/Sin título",
-    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
-    "RetosPicoCTF/RetosForensic/05 - What Lies Within.md",
+    "RetosPicoCTF/Cryptography/01 - The Numbers.md",
+    "RetosPicoCTF/Cryptography/02 - 13.md",
+    "RetosPicoCTF/Cryptography/03 - caesar.md",
+    "RetosPicoCTF/Cryptography/04 - Easy1.md",
+    "RetosPicoCTF/Cryptography/05 - la cifra de.md",
+    "RetosPicoCTF/Cryptography/06 - Tapping.md",
+    "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
+    "RetosPicoCTF/Plantilla PicoCTF.md",
+    "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
+    "RetosPicoCTF/RetosForensic/08 - m00nwalk.md",
+    "RetosPicoCTF/RetosForensic/07 - like1000.md",
+    "RetosPicoCTF/RetosForensic/01 - Glory of the Garden.md",
+    "RetosPicoCTF/RetosForensic/02 - extensions.md",
     "RetosPicoCTF/RetosForensic/04 - So Meta.md",
+    "RetosPicoCTF/RetosForensic/06 - c0rruption.md",
+    "RetosPicoCTF/RetosForensic/05 - What Lies Within.md",
+    "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
+    "RetosPicoCTF/Hacking Web/07 - Irish-Name-Repo 1.md",
+    "RetosPicoCTF/Hacking Web/09 - Irish-Name-Repo 3.md",
+    "RetosPicoCTF/Hacking Web/10 - JaWT Scratchpad.md",
+    "RetosPicoCTF/Hacking Web/13 - Scavenger Hunt.md",
+    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/01 - Includes.md",
+    "RetosPicoCTF/Cryptography",
+    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
+    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
     "RetosPicoCTF/RetosForensic/14 - MacroHard Weakage.md",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/15 - Redaction gone wrong.md",
-    "RetosPicoCTF/Plantilla PicoCTF.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/14 - Packets Primer.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/13 - Lookey here.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/09 - SQL Direct.md",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Hacking Web/Sin título.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/01 - Includes.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/02 - Inspect HTML.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/12 - Enhance!.md",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/11 - Wireshark doo dooo do doo....md",
-    "RetosPicoCTF/RetosForensic/03 - shark on wire 1.md",
-    "RetosPicoCTF/RetosForensic/01 - Glory of the Garden.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/10 - information.md",
-    "RetosPicoCTF/RetosForensic/02 - extensions.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/08 - Secrets.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/07 - Roboto Sans.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/06 - Power Cookie.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/05 - Forbidden Paths.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/04 - Search source.md",
-    "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/03 - Local Authority.md",
     "RetosPicoCTF/Segundo Parcial",
     "Sin título.canvas",
     "Sin título",
