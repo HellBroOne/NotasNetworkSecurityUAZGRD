@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
+                "file": "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
+                "file": "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
+                "file": "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/07 - waves over lambda.md"
+                "file": "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md"
               }
             }
           }
@@ -173,13 +173,16 @@
   },
   "active": "29fdb2b32a6561e5",
   "lastOpenFiles": [
+    "RetosPicoCTF/Cryptography/09 - miniRSA.md",
+    "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md",
+    "RetosPicoCTF/Cryptography/08 - rsa-pop-quiz.md",
+    "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
     "RetosPicoCTF/Cryptography/01 - The Numbers.md",
     "RetosPicoCTF/Cryptography/02 - 13.md",
     "RetosPicoCTF/Cryptography/03 - caesar.md",
     "RetosPicoCTF/Cryptography/04 - Easy1.md",
     "RetosPicoCTF/Cryptography/05 - la cifra de.md",
     "RetosPicoCTF/Cryptography/06 - Tapping.md",
-    "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
     "RetosPicoCTF/Plantilla PicoCTF.md",
     "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
     "RetosPicoCTF/RetosForensic/08 - m00nwalk.md",
@@ -197,9 +200,6 @@
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web/01 - Includes.md",
     "RetosPicoCTF/Cryptography",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/16 - St3g0.md",
-    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
-    "RetosPicoCTF/RetosForensic/14 - MacroHard Weakage.md",
-    "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics/15 - Redaction gone wrong.md",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
     "RetosPicoCTF/Segundo Parcial",
