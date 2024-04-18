@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
+                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
+                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
+                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Cryptography/15 - ReadMyCert.md"
+                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md"
               }
             }
           }
@@ -161,11 +161,18 @@
   },
   "active": "027c5ca9a3ba3a3e",
   "lastOpenFiles": [
+    "RetosPicoCTF/Reversing/04 - vault-door-4.md",
+    "RetosPicoCTF/Reversing/05 - vault-door-5.md",
+    "RetosPicoCTF/Reversing/03 - vault-door-3.md",
+    "RetosPicoCTF/Reversing/01 - vault-door-training.md",
+    "RetosPicoCTF/Reversing/02 - vault-door-1.md",
+    "RetosPicoCTF/Plantilla PicoCTF.md",
+    "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
+    "RetosPicoCTF/Reversing",
     "RetosPicoCTF/Cryptography/14 - Pixelated.md",
     "RetosPicoCTF/Cryptography/13 - HideToSee.md",
     "RetosPicoCTF/Cryptography/12 - basic-mod1.md",
     "RetosPicoCTF/Cryptography/11 - Mind your Ps and Qs.md",
-    "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
     "RetosPicoCTF/Cryptography/06 - Tapping.md",
     "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
     "RetosPicoCTF/Cryptography/08 - rsa-pop-quiz.md",
@@ -178,17 +185,11 @@
     "RetosPicoCTF/Cryptography/03 - caesar.md",
     "RetosPicoCTF/Cryptography/04 - Easy1.md",
     "RetosPicoCTF/Cryptography/05 - la cifra de.md",
-    "RetosPicoCTF/Plantilla PicoCTF.md",
     "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
     "RetosPicoCTF/RetosForensic/08 - m00nwalk.md",
     "RetosPicoCTF/RetosForensic/07 - like1000.md",
     "RetosPicoCTF/RetosForensic/01 - Glory of the Garden.md",
     "RetosPicoCTF/RetosForensic/02 - extensions.md",
-    "RetosPicoCTF/RetosForensic/04 - So Meta.md",
-    "RetosPicoCTF/RetosForensic/06 - c0rruption.md",
-    "RetosPicoCTF/RetosForensic/05 - What Lies Within.md",
-    "RetosPicoCTF/Hacking Web/05 - Client-side-again.md",
-    "RetosPicoCTF/Hacking Web/07 - Irish-Name-Repo 1.md",
     "RetosPicoCTF/Cryptography",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
@@ -200,7 +201,6 @@
     "RetosPicoCTF/Hacking Web",
     "RetosPicoCTF/Primer Parcial",
     "RetosPicoCTF",
-    "Pasted image 20240221190011.png",
-    "RetosBandit"
+    "Pasted image 20240221190011.png"
   ]
 }
