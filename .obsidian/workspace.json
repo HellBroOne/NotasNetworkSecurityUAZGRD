@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
+                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
+                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md",
+                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosPicoCTF/Reversing/05 - vault-door-5.md"
+                "file": "RetosPicoCTF/Reversing/06 - asm1.md"
               }
             }
           }
@@ -161,12 +161,16 @@
   },
   "active": "027c5ca9a3ba3a3e",
   "lastOpenFiles": [
+    "RetosPicoCTF/Reversing/08 - asm3.md",
+    "RetosPicoCTF/Reversing/07 - asm2.md",
+    "RetosPicoCTF/Reversing/06 - asm1.md",
+    "RetosPicoCTF/Plantilla PicoCTF.md",
+    "RetosPicoCTF/Reversing/03 - vault-door-3.md",
+    "RetosPicoCTF/Reversing/Sin título.md",
     "RetosPicoCTF/Reversing/04 - vault-door-4.md",
     "RetosPicoCTF/Reversing/05 - vault-door-5.md",
-    "RetosPicoCTF/Reversing/03 - vault-door-3.md",
     "RetosPicoCTF/Reversing/01 - vault-door-training.md",
     "RetosPicoCTF/Reversing/02 - vault-door-1.md",
-    "RetosPicoCTF/Plantilla PicoCTF.md",
     "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
     "RetosPicoCTF/Reversing",
     "RetosPicoCTF/Cryptography/14 - Pixelated.md",
@@ -186,10 +190,6 @@
     "RetosPicoCTF/Cryptography/04 - Easy1.md",
     "RetosPicoCTF/Cryptography/05 - la cifra de.md",
     "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
-    "RetosPicoCTF/RetosForensic/08 - m00nwalk.md",
-    "RetosPicoCTF/RetosForensic/07 - like1000.md",
-    "RetosPicoCTF/RetosForensic/01 - Glory of the Garden.md",
-    "RetosPicoCTF/RetosForensic/02 - extensions.md",
     "RetosPicoCTF/Cryptography",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
