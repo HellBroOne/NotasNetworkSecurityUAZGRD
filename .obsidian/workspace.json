@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ba1ac72116914464",
+        "id": "16105be5373b5ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "29fdb2b32a6561e5",
+            "id": "973d5c54f82f30e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RetosPicoCTF/Cryptography/13 - HideToSee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027c5ca9a3ba3a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosPicoCTF/Reversing/06 - asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RetosPicoCTF/Reversing/06 - asm1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,22 +138,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "027c5ca9a3ba3a3e",
+  "active": "973d5c54f82f30e2",
   "lastOpenFiles": [
-    "RetosPicoCTF/Reversing/08 - asm3.md",
-    "RetosPicoCTF/Reversing/07 - asm2.md",
-    "RetosPicoCTF/Reversing/06 - asm1.md",
+    "RetosPicoCTF/Cryptography/13 - HideToSee.md",
+    "RetosPicoCTF/Reversing/12 - Need For Speed.md",
+    "RetosPicoCTF/Reversing/11 - reverse_cipher.md",
+    "RetosPicoCTF/Reversing/10 - Safe Opener 2.md",
+    "RetosPicoCTF/RetosForensic/15 - WebNet0.md",
+    "RetosPicoCTF/Reversing/09 - GDB Test Drive.md",
+    "RetosPicoCTF/RetosForensic/16 - WebNet1.md",
+    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
+    "RetosPicoCTF/Reversing/02 - vault-door-1.md",
     "RetosPicoCTF/Plantilla PicoCTF.md",
+    "RetosPicoCTF/Reversing/08 - asm3.md",
+    "RetosPicoCTF/Reversing/06 - asm1.md",
+    "RetosPicoCTF/Reversing/07 - asm2.md",
     "RetosPicoCTF/Reversing/03 - vault-door-3.md",
     "RetosPicoCTF/Reversing/Sin título.md",
     "RetosPicoCTF/Reversing/04 - vault-door-4.md",
     "RetosPicoCTF/Reversing/05 - vault-door-5.md",
     "RetosPicoCTF/Reversing/01 - vault-door-training.md",
-    "RetosPicoCTF/Reversing/02 - vault-door-1.md",
     "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
     "RetosPicoCTF/Reversing",
     "RetosPicoCTF/Cryptography/14 - Pixelated.md",
-    "RetosPicoCTF/Cryptography/13 - HideToSee.md",
     "RetosPicoCTF/Cryptography/12 - basic-mod1.md",
     "RetosPicoCTF/Cryptography/11 - Mind your Ps and Qs.md",
     "RetosPicoCTF/Cryptography/06 - Tapping.md",
@@ -183,13 +169,6 @@
     "RetosPicoCTF/Cryptography/09 - miniRSA.md",
     "Pasted image 20240416131727.png",
     "Pasted image 20240416131723.png",
-    "RetosPicoCTF/Cryptography/10 - b00tl3gRSA2.md",
-    "RetosPicoCTF/Cryptography/01 - The Numbers.md",
-    "RetosPicoCTF/Cryptography/02 - 13.md",
-    "RetosPicoCTF/Cryptography/03 - caesar.md",
-    "RetosPicoCTF/Cryptography/04 - Easy1.md",
-    "RetosPicoCTF/Cryptography/05 - la cifra de.md",
-    "RetosPicoCTF/RetosForensic/10 - WhitePages.md",
     "RetosPicoCTF/Cryptography",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
