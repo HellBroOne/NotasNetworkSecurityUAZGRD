@@ -54,6 +54,6 @@ C:\Users\gerar>ssh bandit31@bandit.labs.overthewire.org -p 2220
 Enter password: OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
 ```
 ### Notas Adicionales
-En este nivel se usaron las etiquetas de git, y haciendo uso de show secret para ver los caracteres ocultos de un archivo.
+En este nivel se usaron las etiquetas de git, y haciendo uso de *show secret* para ver los caracteres ocultos de un archivo.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit31.html

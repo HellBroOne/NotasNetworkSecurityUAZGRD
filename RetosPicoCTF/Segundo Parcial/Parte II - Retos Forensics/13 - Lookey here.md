@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Attackers have hidden information in a very large mass of data in the past, maybe they are still doing it. Download the data [here](https://artifacts.picoctf.net/c/124/anthem.flag.txt).
 
 Los atacantes han ocultado información de datos en gran masa en el pasado, tal vez todavía lo estén haciendo. Descarga los datos [aquí](https://artifacts.picoctf.net/c/124/anthem.flag.txt).

@@ -30,6 +30,6 @@ C:\Users\gerar>ssh bandit20@bandit.labs.overthewire.org -p 2220
 Enter password: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 ```
 ### Notas Adicionales
-Para este nivel se realizó una conexión desde un setuid, que básicamente permite personalizar los permisos para un archivo. Una definicion es: *Setuid y Setgid son términos de Unix, abreviaturas para "Set User ID" y "Set Group ID", respectivamente. Setuid, también llamado a veces "suid", y "setgid" son permisos de acceso que pueden asignarse a archivos o directorios en un sistema operativo basado en Unix.*
+Para este nivel se realizó una conexión desde un setuid, que básicamente permite personalizar los permisos para un archivo. Una definicion es: *Setuid y Setgid son términos de Unix, abreviaturas para "Set User ID" y "Set Group ID", respectivamente. Setuid, también llamado a veces "**suid**", y "**setgid**" son permisos de acceso que pueden asignarse a archivos o directorios en un sistema operativo basado en Unix.*
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit20.html

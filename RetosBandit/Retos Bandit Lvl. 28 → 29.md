@@ -101,6 +101,6 @@ C:\Users\gerar>ssh bandit29@bandit.labs.overthewire.org -p 2220
 Enter password: tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
 ```
 ### Notas Adicionales
-En este nivel se usó git de nuevo, y con el uso del log y show pudimos ver los detalles ocultos de un archivo.
+En este nivel se usó git de nuevo, y con el uso del *log* y *show* pudimos ver los detalles ocultos de un archivo.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit29.html

@@ -26,6 +26,6 @@ Enter password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ### Notas Adicionales
 El nivel 1 implementa lo básico de la terminal de Linux, como lo es el **ls para ver lo que hay en un directorio** y el **cat para poder leer** un archivo.
 **ls**: mostrar contenido de un directorio.
-**cat**: concatena y muestra archivos
+**cat**: concatena y muestra archivos.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit1.html

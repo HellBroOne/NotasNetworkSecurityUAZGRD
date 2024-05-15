@@ -28,6 +28,6 @@ C:Users/User> ssh bandit11@bandit.labs.overthewire.org -p 2220
 Enter password: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ```
 ### Notas Adicionales
-Para este nivel usamos codificaciones en base 64, esto con el comando de base 64 para encriptar y la opción -d para desencriptar al archivo data.txt
+Para este nivel usamos codificaciones en base 64, esto con el comando de base 64 para encriptar y la opción -d para desencriptar al archivo data.txt .
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit11.html

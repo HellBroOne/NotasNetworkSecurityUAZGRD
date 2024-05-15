@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Run the Python script `code.py` in the same directory as `codebook.txt`.
 
 Ejecute el script Python `code.py` en el mismo directorio que `codebook.txt`.

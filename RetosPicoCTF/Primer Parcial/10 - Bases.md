@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do with bases.
 
 ¿Qué significa esto `bDNhcm5fdGgzX3IwcDM1` ? Creo que tiene algo que ver con las bases.

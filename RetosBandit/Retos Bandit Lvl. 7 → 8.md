@@ -1,6 +1,6 @@
 # Level 7
 ## Objetivo
-The password for the next level is stored in the file **data.txt** next to the word **millionth**
+The password for the next level is stored in the file **data.txt** next to the word **millionth**.
 
 La contraseña para el siguiente nivel se almacena en el archivo **data.txt** junto a la palabra **millionth (millonésima)**
 ### Datos de Acceso al nivel

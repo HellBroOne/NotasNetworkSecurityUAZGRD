@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Run the `runme.py` script to get the flag. Download the script with your browser or with `wget` in the webshell.
 
 Ejecute el script `runme.py` para obtener la bandera. Descargue el script con su navegador o con `wget` en el webshell.

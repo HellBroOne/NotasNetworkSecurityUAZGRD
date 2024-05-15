@@ -27,6 +27,6 @@ Enter password: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 ```
 ### Notas Adicionales
 Para este nivel usamos tr, que es un comando que permite utilizar los *wildcards* para poder modificar o reemplazar cadenas de texto.
-**tr:** (Abreviación de Translate) Permite el reemplazo o eliminación de un conjunto de caracteres de la Entrada estándar
+**tr:** (Abreviación de Translate) Permite el reemplazo o eliminación de un conjunto de caracteres de la Entrada estándar.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit12.html

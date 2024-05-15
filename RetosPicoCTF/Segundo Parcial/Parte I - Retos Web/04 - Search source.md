@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 The developer of this website mistakenly left an important artifact in the website source, can you find it? The website is [here](http://saturn.picoctf.net:63978/)
 
 El desarrollador de este sitio web dejó por error un artefacto importante en la fuente del sitio web. ¿Puedes encontrarlo? El sitio web está [aquí](http://saturn.picoctf.net:63978/)

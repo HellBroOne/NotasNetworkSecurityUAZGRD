@@ -29,8 +29,8 @@ Failed to add the host to the list of known hosts (C:\\Users\\gerar/.ssh/known_h
             More information on http://www.overthewire.org/wargames
 ```
 ### Notas Adicionales
-Este Nivel nos ayuda a poder comprender como acceder a los niveles de la plataforma de bandit, nos sirve al momento de querer acceder a nuevos niveles así como usar los ssh para acceder al servidor de bandit
-
+Este Nivel nos ayuda a poder comprender como acceder a los niveles de la plataforma de bandit, nos sirve al momento de querer acceder a nuevos niveles así como usar los ssh para acceder al servidor de bandit.
+.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit0.html
 

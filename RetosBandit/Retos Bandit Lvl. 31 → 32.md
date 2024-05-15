@@ -108,6 +108,6 @@ C:\Users\gerar>ssh bandit32@bandit.labs.overthewire.org -p 2220
 Enter password: rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
 ```
 ### Notas Adicionales
-En este nivel se usó git add, git commit, para poder hacer que se suba un archivo a un repositorio, la idea simplemente era hacer un push de un archivo hacia el repo para tener la nueva contraseña.
+En este nivel se usó *git add, git commit*, para poder hacer que se suba un archivo a un repositorio, la idea simplemente era hacer un push de un archivo hacia el repo para tener la nueva contraseña.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit32.html

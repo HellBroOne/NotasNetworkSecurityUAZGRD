@@ -2,7 +2,7 @@
 ## Objetivo
 The password for the next level is stored in a file called **-** located in the home directory
 
-La contraseña para el siguiente nivel se almacena en un archivo llamado - ubicado en el directorio de inicio
+La contraseña para el siguiente nivel se almacena en un archivo llamado - ubicado en el directorio de inicio.
 ### Datos de Acceso al nivel
 Comandos: [ls](https://man7.org/linux/man-pages/man1/ls.1.html) , [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) , [cat](https://man7.org/linux/man-pages/man1/cat.1.html) , [file](https://man7.org/linux/man-pages/man1/file.1.html) , du , find
 Usuario: bandit1

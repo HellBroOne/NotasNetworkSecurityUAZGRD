@@ -66,7 +66,7 @@ Enter password: QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 ### Notas Adicionales
 En este nivel se usó cron, y crontab que son herramientas que nos sirven para administrar las tareas en tiempos. Una definición de Wikipedia que ayuda a entender esto es la siguiente:
 "*En el sistema operativo Unix, **cron** es un administrador regular de procesos en segundo plano (demonio) que ejecuta procesos o guiones a intervalos regulares (por ejemplo, cada minuto, día, semana o mes). Los procesos que deben ejecutarse y la hora a la que deben hacerlo se especifican en el archivo 'crontab'. El nombre _cron_ proviene del griego 
-**chronos** (χρόνος) que significa "tiempo".
+**chronos:** (χρόνος) que significa "tiempo".
 **Cron** se puede definir como el equivalente a Tareas Programadas de Windows.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit23.html

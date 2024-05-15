@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Can you find the flag? [shark1.pcapng](https://mercury.picoctf.net/static/4c996ecfb7fbada15a9799511f24dc99/shark1.pcapng).
 
 ¿Puedes encontrar la bandera? [tiburón1.pcapng](https://mercury.picoctf.net/static/4c996ecfb7fbada15a9799511f24dc99/shark1.pcapng).

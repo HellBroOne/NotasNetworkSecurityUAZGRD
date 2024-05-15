@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 The flag is somewhere on this web application not necessarily on the website. Find it. Check [this](http://saturn.picoctf.net:59901/) out.
 
 La bandera está en algún lugar de esta aplicación web, no necesariamente en el sitio web. Encuéntralo. Mira [esto](http://saturn.picoctf.net:59901/).

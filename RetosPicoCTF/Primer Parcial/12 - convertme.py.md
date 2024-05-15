@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Run the Python script and convert the given number from decimal to binary to get the flag.
 
 Ejecute el script Python y convierta el número dado de decimal a binario para obtener la bandera.

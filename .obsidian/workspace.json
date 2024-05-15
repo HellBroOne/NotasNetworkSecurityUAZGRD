@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "16105be5373b5ccf",
+        "id": "ffc429f902aa4fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "973d5c54f82f30e2",
+            "id": "629398b81e009a97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RetosPicoCTF/I - PicoCTF-2024/13 -  Time Machine.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RetosPicoCTF/I - PicoCTF-2024/13 -  Time Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RetosPicoCTF/I - PicoCTF-2024/13 -  Time Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RetosPicoCTF/I - PicoCTF-2024/13 -  Time Machine.md"
+              }
             }
           }
         ]
@@ -138,48 +146,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "973d5c54f82f30e2",
+  "active": "688e6d00f1f8b176",
   "lastOpenFiles": [
-    "RetosPicoCTF/Cryptography/13 - HideToSee.md",
-    "RetosPicoCTF/Reversing/12 - Need For Speed.md",
-    "RetosPicoCTF/Reversing/11 - reverse_cipher.md",
-    "RetosPicoCTF/Reversing/10 - Safe Opener 2.md",
-    "RetosPicoCTF/RetosForensic/15 - WebNet0.md",
-    "RetosPicoCTF/Reversing/09 - GDB Test Drive.md",
-    "RetosPicoCTF/RetosForensic/16 - WebNet1.md",
-    "RetosPicoCTF/RetosForensic/11 - shark on wire 2.md",
-    "RetosPicoCTF/Reversing/02 - vault-door-1.md",
+    "RetosPicoCTF/I - PicoCTF-2024/14 -  Unminify.md",
+    "RetosPicoCTF/I - PicoCTF-2024/15 -  WebDecode.md",
+    "RetosPicoCTF/I - PicoCTF-2024/13 -  Time Machine.md",
+    "RetosPicoCTF/I - PicoCTF-2024/12 -  Super SSH.md",
+    "RetosPicoCTF/I - PicoCTF-2024/11 -  Secret of the Polyglot.md",
+    "RetosPicoCTF/I - PicoCTF-2024/10 -  Scan Surprise.md",
+    "RetosPicoCTF/I - PicoCTF-2024/09 -  interencdec.md",
+    "RetosPicoCTF/I - PicoCTF-2024/04 - C3.md",
+    "RetosPicoCTF/I - PicoCTF-2024/00 - README.md",
+    "RetosPicoCTF/I - PicoCTF-2024/06 -  Collaborative Development.md",
+    "RetosPicoCTF/I - PicoCTF-2024/07 -  CommitmentIssues.md",
+    "RetosPicoCTF/I - PicoCTF-2024/08 -  endianness.md",
+    "RetosPicoCTF/I - PicoCTF-2024/05 -  Can You See.md",
+    "RetosPicoCTF/I - PicoCTF-2024/03 - Bookmarklet.md",
+    "RetosPicoCTF/I - PicoCTF-2024/02 - Blame Game.md",
+    "RetosPicoCTF/I - PicoCTF-2024/01 - binhexa.md",
+    "RetosBandit/Retos Bandit 0.md",
+    "RetosPicoCTF/I - PicoCTF-2024",
+    "RetosBandit/Plantilla Bandit.md",
     "RetosPicoCTF/Plantilla PicoCTF.md",
-    "RetosPicoCTF/Reversing/08 - asm3.md",
-    "RetosPicoCTF/Reversing/06 - asm1.md",
-    "RetosPicoCTF/Reversing/07 - asm2.md",
-    "RetosPicoCTF/Reversing/03 - vault-door-3.md",
-    "RetosPicoCTF/Reversing/Sin título.md",
-    "RetosPicoCTF/Reversing/04 - vault-door-4.md",
-    "RetosPicoCTF/Reversing/05 - vault-door-5.md",
-    "RetosPicoCTF/Reversing/01 - vault-door-training.md",
-    "RetosPicoCTF/Cryptography/15 - ReadMyCert.md",
-    "RetosPicoCTF/Reversing",
-    "RetosPicoCTF/Cryptography/14 - Pixelated.md",
-    "RetosPicoCTF/Cryptography/12 - basic-mod1.md",
-    "RetosPicoCTF/Cryptography/11 - Mind your Ps and Qs.md",
-    "RetosPicoCTF/Cryptography/06 - Tapping.md",
-    "RetosPicoCTF/Cryptography/07 - waves over lambda.md",
-    "RetosPicoCTF/Cryptography/08 - rsa-pop-quiz.md",
-    "RetosPicoCTF/Cryptography/09 - miniRSA.md",
+    "README.md",
+    "flag.png",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/20 - GDB baby step 2.md",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/19 - GDB baby step 1.md",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/18 - Bit-O-Asm-4.md",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/17 - Bit-O-Asm-3.md",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/16 - Bit-O-Asm-2.md",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing/15 - Bit-O-Asm-1.md",
+    "Pasted image 20240221190011.png",
+    "flag 1.png",
+    "Pasted image 20240514133428.png",
+    "Pasted image 20240514132709.png",
+    "RetosPicoCTF/Tercer Parcial/Parte II - Retos Reversing",
+    "RetosPicoCTF/Tercer Parcial/Parte I -  Retos Crypto",
+    "RetosPicoCTF/Tercer Parcial",
+    "RetosPicoCTF/04 - Reversing",
     "Pasted image 20240416131727.png",
     "Pasted image 20240416131723.png",
-    "RetosPicoCTF/Cryptography",
+    "RetosPicoCTF/03 - Cryptography",
     "RetosPicoCTF/Segundo Parcial/Parte II - Retos Forensics",
     "RetosPicoCTF/Segundo Parcial/Parte I - Retos Web",
     "RetosPicoCTF/Segundo Parcial",
     "Sin título.canvas",
     "Sin título",
-    "RetosPicoCTF/RetosForensic",
-    "Sin título 1.canvas",
-    "RetosPicoCTF/Hacking Web",
-    "RetosPicoCTF/Primer Parcial",
-    "RetosPicoCTF",
-    "Pasted image 20240221190011.png"
+    "Sin título 1.canvas"
   ]
 }

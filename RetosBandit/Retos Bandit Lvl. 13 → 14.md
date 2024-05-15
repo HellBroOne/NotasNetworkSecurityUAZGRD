@@ -58,6 +58,6 @@ Para este nivel nos conectamos con ssh a otro servidor, con una ssh privada dada
 ssh -i sshkey.private bandit14@localhost -p 2220
 ```
 Con este comando se nos permitió acceder al servidor del nivel 14, para poder buscar en el directorio necesario.
-**ssh:** conecta a un servidor mediante ssh
+**ssh:** conecta a un servidor mediante ssh.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit14.html

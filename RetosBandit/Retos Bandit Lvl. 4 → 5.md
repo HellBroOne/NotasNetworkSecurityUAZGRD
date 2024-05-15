@@ -42,7 +42,7 @@ C:Users/User> ssh bandit5@bandit.labs.overthewire.org -p 2220
 Enter password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```
 ### Notas Adicionales
-Con este nivel pudimos comprender las funcionalidades del comando "file", el cuál nos permite mostrar el tipo de un archivo o archivos si lo aplicamos a un directorio.
+Con este nivel pudimos comprender las funcionalidades del comando "file", el cuál nos permite mostrar el tipo de un archivo o archivos si lo aplicamos a un directorio..
 **file**: Muestra de qué tipo es un archivo.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit5.html

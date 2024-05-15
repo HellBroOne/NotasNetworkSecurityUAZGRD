@@ -32,6 +32,6 @@ Enter password: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ```
 ### Notas Adicionales
 Para este nivel usamos el comando strings, dicho comando lo combinamos mediante las barras para mostrar grep en los datos.
-**strings**: Este comando nos permite ver los caracteres legibles para humanos dentro de cualquier archivo.
+- **strings**: Este comando nos permite ver los caracteres legibles para humanos dentro de cualquier archivo.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit10.html

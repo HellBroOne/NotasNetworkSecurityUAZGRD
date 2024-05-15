@@ -32,7 +32,7 @@ Connection to bandit.labs.overthewire.org closed.
 C:\Users\gerar>
 ```
 ### Notas Adicionales
-Eventualmente, el nivel 34 aún no ha sido creado, por ello es que se nos felicita en este nivel :)
+Eventualmente, el nivel 34 aún no ha sido creado, por ello es que se nos felicita en este nivel. :)
 Aquí terminan los retos de Bandit y pasamos por ahora a los de PicoCTF.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit34.html

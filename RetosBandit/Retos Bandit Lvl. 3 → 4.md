@@ -34,7 +34,7 @@ Enter password: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ```
 ### Notas Adicionales
 Con esta práctica se pudo completar el aprendizaje de manipulación de archivos ocultos en linux, mostrando los elementos con ls pero utilizando la opción de "l" y "a", cada opción muestra una cosa diferente:
-*-l*: Menos l (de list) muestra a detalle un listado de los archivos, es así como se nos permite obtener tanto los permisos y la fecha de archivos
+*-l*: Menos l (de list) muestra a detalle un listado de los archivos, es así como se nos permite obtener tanto los permisos y la fecha de archivos.
 *-a: Menos a (de all), muestra todos los archivos sin ninguna excepción.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit4.html

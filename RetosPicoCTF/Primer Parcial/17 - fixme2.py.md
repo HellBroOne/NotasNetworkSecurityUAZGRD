@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Fix the syntax error in this Python script to print the flag.
 
 Corrije el error de sintaxis en este script de Python para imprimir la bandera.

@@ -73,6 +73,6 @@ C:\Users\gerar>ssh bandit28@bandit.labs.overthewire.org -p 2220
 Enter password: YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 ```
 ### Notas Adicionales
-En este nivel se usó git, la idea fue clonar un repositorio a una carpeta propia y ya con el repo, obtener uno de los archivos del repositorio llamado README dónde pudimos verificar el password del siguiente nivel.
+En este nivel se usó git, la idea fue clonar un repositorio a una carpeta propia y ya con el repo, obtener uno de los archivos del repositorio llamado *README* dónde pudimos verificar el password del siguiente nivel.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit28.html

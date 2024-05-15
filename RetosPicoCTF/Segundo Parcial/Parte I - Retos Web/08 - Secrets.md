@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 We have several pages hidden. Can you find the one with the flag? The website is running [here](http://saturn.picoctf.net:65455/).
 
 Tenemos varias páginas ocultas. ¿Puedes encontrar la que tiene la bandera? El sitio web se está ejecutando [aquí](http://saturn.picoctf.net:65455/).

@@ -31,6 +31,6 @@ C:\Users\gerar>ssh bandit27@bandit.labs.overthewire.org -p 2220
 Enter password: YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 ```
 ### Notas Adicionales
-En este nivel fue la continuación del nivel 26, ya que una vez en la consola del nivel 26, tuvimos que apresurarnos a obtener la contraseña del siguiente nivel, haciendo uso de ls y ejecutando el archivo de "bandit27-do" y haciendo uso de un comando como otro usuario.
+En este nivel fue la continuación del nivel 26, ya que una vez en la consola del nivel 26, tuvimos que apresurarnos a obtener la contraseña del siguiente nivel, haciendo uso de ls y ejecutando el archivo de "bandit27-do", y haciendo uso de un comando como otro usuario.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit27.html

@@ -29,6 +29,6 @@ Enter password: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 ```
 ### Notas Adicionales
 Para este nivel accedimos al local host mediante el puerto 30000, con este servidor, pudimos ingresar el password de este nivel para proseguir.
-**nc:** (NetCat) Netcat es una herramienta de red que permite a través de intérprete de comandos y con una sintaxis sencilla abrir puertos TCP/UDP en un HOST (quedando netcat a la escucha), asociar una shell a un puerto en concreto (para conectarse por ejemplo a MS-DOS o al intérprete bash de Linux remotamente). "nc" nos permite conectarnos a varios puertos disponibles.
+**nc:** (NetCat) Netcat es una herramienta de red que permite a través de intérprete de comandos y con una sintaxis sencilla abrir puertos TCP/UDP en un HOST (quedando netcat a la escucha), asociar una shell a un puerto en concreto (para conectarse por ejemplo a MS-DOS o al intérprete bash de Linux remotamente). "nc" nos permite conectarnos a varios puertos disponibles..
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit15.html

@@ -48,7 +48,7 @@ bandit26@bandit:~$
 ```
 **Rápido!, luego luego a hacer el reto 26 a 27.**
 ### Notas Adicionales
-Para este nivel, el programa "more" nos estaba impidiendo el paso a la consola, la idea era hacer que, mediante una ssh acceder pero para ello, tuvimos que hacer que more se ejecutara antes de que nos sacara del bash. Por ello, la idea fue muy curiosa, al momento de acceder al servidor de bandit26 tuve que hacer chica la ventana de comandos, para así hacer que more se ejecutara. Y una vez dentro, con "v" ejecutar vim, para pasar al modo de comandos y hacer que pudiéramos acceder al shell
+Para este nivel, el programa "more" nos estaba impidiendo el paso a la consola, la idea era hacer que, mediante una ssh acceder pero para ello, tuvimos que hacer que more se ejecutara antes de que nos sacara del bash. Por ello, la idea fue muy curiosa, al momento de acceder al servidor de bandit26 tuve que hacer chica la ventana de comandos, para así hacer que more se ejecutara. Y una vez dentro, con "v" ejecutar vim, para pasar al modo de comandos y hacer que pudiéramos acceder al shell.
 
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit26.html

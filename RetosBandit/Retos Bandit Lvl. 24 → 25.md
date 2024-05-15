@@ -44,6 +44,6 @@ C:\Users\gerar>ssh bandit25@bandit.labs.overthewire.org -p 2220
 Enter password: p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
 ```
 ### Notas Adicionales
-En este nivel se usó el scripting, el cuál es una manera de crear scripts y ejecutar las instrucciones de un proceso que queramos ejecutar, la idea de este script es el de hacer "bruteforce" para adivinar de manera bruta cuál es el password, guiada por una sintaxis simple. 
+En este nivel se usó el scripting, el cuál es una manera de crear scripts y ejecutar las instrucciones de un proceso que queramos ejecutar, la idea de este script es el de hacer "**bruteforce**" (Ataque de fuerza bruta) para adivinar de manera bruta cuál es el password, guiada por una sintaxis simple. 
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit25.html

@@ -62,8 +62,8 @@ otros (hay que instalar) :
 .rar rar      unrar (7z x)
 ```
 dichos formatos necesitaron sus comandos en consola como los fueron:
-**zcat:** descomprimir gzip
-**bzcat:** descomprimir bzip2
-**tar xO:** descomprimir tar (es una letra "O" en lugar de un número "0")
+**zcat:** descomprimir gzip.
+**bzcat:** descomprimir bzip2.
+**tar xO:** descomprimir tar (es una letra "O" en lugar de un número "0").
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit13.html

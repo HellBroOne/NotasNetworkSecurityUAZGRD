@@ -1,6 +1,6 @@
 # Level 8
 ## Objetivo
-The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once
+The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once.
 
 La contraseña para el siguiente nivel se almacena en el archivo **data.txt** y es la única línea de texto que aparece solo una vez.
 ### Datos de Acceso al nivel

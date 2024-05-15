@@ -123,6 +123,6 @@ Enter password: JQttfApK4SeyHwDlI9SXGR50qclOAil1
 ```
 ### Notas Adicionales
 Para este nivel nos conectamos mediante ssl, que es una biblioteca de software para aplicaciones que proporcionan comunicaciones seguras a través de redes informáticas contra escuchas ilegales e identifican a la parte en el otro extremo.
-**openssl:** Usar la herramienta ssl mediante el bash de linux.
+- **openssl:** Usar la herramienta ssl mediante el bash de linux.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit16.html

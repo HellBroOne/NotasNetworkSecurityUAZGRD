@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Can you crack the password to get the flag?Download the password checker [here](https://artifacts.picoctf.net/c/18/level3.py) and you'll need the encrypted [flag](https://artifacts.picoctf.net/c/18/level3.flag.txt.enc) and the [hash](https://artifacts.picoctf.net/c/18/level3.hash.bin) in the same directory too. There are 7 potential passwords with 1 being correct. You can find these by examining the password checker script.
 
 ¿Puedes descifrar la contraseña para obtener la bandera? Descarga el verificador de contraseñas [aquí](https://artifacts.picoctf.net/c/18/level3.py) y necesitarás la [bandera](https:/ /artifacts.picoctf.net/c/18/level3.flag.txt.enc) y el [hash](https://artifacts.picoctf.net/c/18/level3.hash.bin) también en el mismo directorio. Hay 7 contraseñas potenciales y 1 es correcta. Puedes encontrarlos examinando el script de verificación de contraseñas.

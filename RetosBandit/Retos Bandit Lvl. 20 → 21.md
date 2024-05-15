@@ -32,6 +32,6 @@ C:\Users\gerar>ssh bandit21@bandit.labs.overthewire.org -p 2220
 Enter password: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 ```
 ### Notas Adicionales
-Para este nivel se volvió a hacer uso de un binario setuid, y luego se le paso el password del nivel actual, este password es comparado por el binario y si son los mismos entonces nos manda el siguiente password
+Para este nivel se volvió a hacer uso de un binario setuid, y luego se le paso el password del nivel actual, este password es comparado por el binario y si son los mismos entonces nos manda el siguiente password.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit21.html

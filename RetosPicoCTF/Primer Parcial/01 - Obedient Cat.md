@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 This file has a flag in plain sight (aka "in-the-clear").
 
 Este archivo tiene una bandera a la vista (también conocida como "en-lo-claro").

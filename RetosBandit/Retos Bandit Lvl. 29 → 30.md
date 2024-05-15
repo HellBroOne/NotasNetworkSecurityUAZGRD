@@ -4,7 +4,7 @@ There is a git repository at `ssh://bandit29-git@localhost/home/bandit29-git/re
 Clone the repository and find the password for the next level.
 
 Hay un repositorio git en `ssh://bandit29-git@localhost/home/bandit29-git/repo` a través del puerto `2220`. La contraseña del usuario `bandit29-git` es la misma que la del usuario `bandit29`.
-Clona el repositorio y busca la contraseña para el siguiente nivel.
+Clona el repositorio y busca la contraseña para el siguiente nivel..
 ### Datos de Acceso al nivel
 Comandos: git
 Usuario: bandit29

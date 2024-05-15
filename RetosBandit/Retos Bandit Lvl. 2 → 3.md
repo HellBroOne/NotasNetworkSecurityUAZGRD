@@ -1,6 +1,6 @@
 # Level 3
 ## Objetivo
-The password for the next level is stored in a file called **spaces in this filename** located in the home directory
+The password for the next level is stored in a file called **spaces in this filename** located in the home directory.
 
 La contraseña para el siguiente nivel se almacena en un archivo llamado **spaces in this filename** (espacios en este nombre de archivo) ubicado en el directorio de inicio.
 ### Datos de Acceso al nivel

@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Using netcat (nc) is going to be pretty important. Can you connect to `jupiter.challenges.picoctf.org` at port `64287` to get the flag?
 
 Usar netcat (nc) será bastante importante. ¿Puedes conectarte a `jupiter.challenges.picoctf.org` en el puerto `64287` para obtener la bandera?

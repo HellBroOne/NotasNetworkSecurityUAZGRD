@@ -32,6 +32,6 @@ C:\Users\gerar>ssh bandit33@bandit.labs.overthewire.org -p 2220
 Enter password: odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
 ```
 ### Notas Adicionales
-Este nivel nos hizo entrar en una shell que solamente soportara mayúsculas, la idea de este nivel es acceder al shell, para ello hay que tratar de usar un comando para darnos cuenta que es imposible usar minusculas, con ello, hay que usar "$0" para entrar al shell y ver el archivo de los passwords
+Este nivel nos hizo entrar en una shell que solamente soportara mayúsculas, la idea de este nivel es acceder al shell, para ello hay que tratar de usar un comando para darnos cuenta que es imposible usar minusculas, con ello, hay que usar "$0" para entrar al shell y ver el archivo de los passwords.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit33.html

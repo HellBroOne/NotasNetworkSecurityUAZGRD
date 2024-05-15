@@ -146,6 +146,7 @@ Connection to bandit.labs.overthewire.org closed.
 ```
 ### Notas Adicionales
 Para este nivel utilizamos la conexión por localhost pero con el auxilio del comando **nmap**, dicho comando es un programa de código abierto que sirve para efectuar rastreo de puertos que esta disponible en la terminal de linux, la idea de este asunto fue el de buscar mediante nmap cuál puerto estaba abierto a ssl y cuales no. Sólamente 1 servidor de ellos tenía la llave, y para ello, se verificó el del puerto localhost:31790.
+
 Consiguiente, lo que hicimos fue obtener esa llave y pasarla a un SSH, pero antes tuve que configurar los permisos, fue un nivel bastante interesante por lo que se pudo aprender de cómo editar permisos para un archivo y que el SSH sólo acepta llaves con control total del usuario.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit17.html

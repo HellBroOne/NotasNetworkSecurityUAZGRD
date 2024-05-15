@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Can you crack the password to get the flag?Download the password checker [here](https://artifacts.picoctf.net/c/12/level1.py) and you'll need the encrypted [flag](https://artifacts.picoctf.net/c/12/level1.flag.txt.enc) in the same directory too.
 
 ¿Puedes descifrar la contraseña para obtener la bandera? Descarga el verificador de contraseñas [aquí](https://artifacts.picoctf.net/c/12/level1.py) y necesitarás la [bandera] cifrada(https:/ /artifacts.picoctf.net/c/12/level1.flag.txt.enc) también en el mismo directorio.

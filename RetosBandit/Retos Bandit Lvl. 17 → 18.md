@@ -43,6 +43,6 @@ C:Users/User> ssh bandit18@bandit.labs.overthewire.org -p 2220
 (Enter password: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg)
 ```
 ### Notas Adicionales
-Utilizamos **diff** como la utilidad para comparar directorios entre si o ficheros entre sí. La idea es que se nos demuestre que líneas han sido cambiadas en archivos o en directorios.
+Utilizamos ***diff*** como la utilidad para comparar directorios entre si o ficheros entre sí. La idea es que se nos demuestre que líneas han sido cambiadas en archivos o en directorios.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit18.html

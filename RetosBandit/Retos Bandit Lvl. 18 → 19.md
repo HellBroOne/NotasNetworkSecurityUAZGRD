@@ -51,6 +51,6 @@ C:\Users\gerar> ssh bandit19@bandit.labs.overthewire.org -p 2220
 Enter password: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 ```
 ### Notas Adicionales
-Para este nivel tuvimos que hacer un inicio en la terminal de manera forzada, ya que al momento de iniciar el bash había sido personalizado para que nos sacara cada que iniciemos el bash. Por ello, en la forma que elegí lo que hicimos fue iniciar el bash desde su ruta, luego poner la contraseña y después escribir "cat readme" para abrir el readme, al final, el bash nos devuelve el password después de haber agregado el password.
+Para este nivel tuvimos que hacer un inicio en la terminal de manera forzada, ya que al momento de iniciar el bash había sido personalizado para que nos sacara cada que iniciemos el bash. Por ello, en la forma que elegí lo que hicimos fue iniciar el bash desde su ruta, luego poner la contraseña y después escribir "**cat** readme" para abrir el readme, al final, el bash nos devuelve el password después de haber agregado el password.
 ### Referencias
 https://overthewire.org/wargames/bandit/bandit19.html

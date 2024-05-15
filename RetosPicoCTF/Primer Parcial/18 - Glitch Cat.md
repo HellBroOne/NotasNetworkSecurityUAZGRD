@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Our flag printing service has started glitching!`$ nc saturn.picoctf.net 49700`
 
 ¡Nuestro servicio de impresión de banderas ha comenzado a fallar!`$ nc saturn.picoctf.net 49700`

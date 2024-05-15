@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
 Si te dijera que una palabra comienza con 0x70 en hexadecimal, ¿con qué comenzaría en ASCII?

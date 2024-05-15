@@ -1,4 +1,4 @@
-## Descripcion
+## Descripción
 Can you get the flag? Go to this [website](http://saturn.picoctf.net:50761/) and see what you can discover.
 
 ¿Puedes conseguir la bandera? Ve a este [sitio web](http://saturn.picoctf.net:50761/) y ve lo que puedes descubrir.
